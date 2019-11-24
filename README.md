@@ -7,3 +7,6 @@ A dictionary of videos for text to sign conversion, place into data/video. As fa
 
 ## How to run:
 just run the loadGUI file -> you have to have a valid google API-key in the corresponding System-variable.
+
+## Further information:
+Check out our project description on [DevPost](https://devpost.com/software/baby-signs)
